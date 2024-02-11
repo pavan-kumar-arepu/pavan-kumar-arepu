@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 👋 Hi there, I'm ArepuPavankumar!
 
 I'm a passionate Software Mobile Architect based in Sweden, with a focus on designing and architecting mobile applications for both iOS and Android platforms. My expertise includes system design, low-level and high-level architecture, cloud technologies (AWS, Azure, Google Cloud), and artificial intelligence.
@@ -16,6 +14,7 @@ I'm a passionate Software Mobile Architect based in Sweden, with a focus on desi
 - [LinkedIn](https://www.linkedin.com/in/pavan-kumar-arepu-software-architect-engineer/)
 - Indian WhatsApp Number: +91 8121 040308
 - Sweden Number: +46 76 431 6599
+- Email: iOSDeveloper.ipa@gmail.com
 
 ## 💡 Share Your Ideas
 
