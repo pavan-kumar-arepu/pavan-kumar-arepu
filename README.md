@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm ArepuPavankumar!
 
-I'm a passionate Software Mobile Architect based in Sweden, with a focus on designing and architecting mobile applications for both iOS and Android platforms. My expertise includes system design, low-level and high-level architecture, cloud technologies (AWS, Azure, Google Cloud), and artificial intelligence.
+I'm a passionate Software Mobile Architect based in Sweden and Hyderabad, focusing on designing and architecting mobile applications for both iOS and Android platforms.
+140+ Repositories that cover the spectrum of tech stack(C, C++, Swift, Objective, Java, Kotlin, JavaScript, Dart, Shell/Python Scripting) and technologies like (iOS, Android, and ReactNative). 
+My expertise includes Mobile Development, architecture, system design, low-level and high-level architecture, cloud technologies (AWS, Azure, Google Cloud), and artificial intelligence.
 
 ## 🚀 What I Do
 
