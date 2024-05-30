@@ -11,13 +11,6 @@ My expertise includes Mobile Development, architecture, system design, low-level
 - **Cloud Technologies:** AWS(Certified), Azure(Certified), Google Cloud(Exploring)
 - **Artificial Intelligence:** Exploring the realms of AI for enhancing mobile app capabilities.
 
-## 📱 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/pavan-kumar-arepu-software-architect-engineer/)
-- Indian WhatsApp Number: +91 8121 040308
-- Sweden Number: +46 76 431 6599
-- Email: iOSDeveloper.ipa@gmail.com
-
 ## 💡 Share Your Ideas
 
 Feel free to share your ideas! I'm here to bring your ideas to life and collaborate on exciting projects.
@@ -47,4 +40,12 @@ Feel free to share your ideas! I'm here to bring your ideas to life and collabor
 - Finding/Exploring myself more when I am alone.
 - Practicing meditation for focus and grounding
 
+## 📱 Let's Connect
 Let's connect and collaborate on exciting projects! Reach out to me on LinkedIn or WhatsApp to discuss ideas and opportunities.
+
+- [LinkedIn](https://www.linkedin.com/in/pavan-kumar-arepu-software-architect-engineer/)
+- Indian WhatsApp Number: +91 8121 040308
+- Sweden Number: +46 76 431 6599
+- Email: iOSDeveloper.ipa@gmail.com
+
+
