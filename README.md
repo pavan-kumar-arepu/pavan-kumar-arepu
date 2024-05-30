@@ -27,13 +27,13 @@ Feel free to share your ideas! I'm here to bring your ideas to life and collabor
 - AWS Solution Architect Certified(SAA-003)
 - Azure Fundamentals(AZ-900)
 - PSM-1 Certified
-- iOS App Developed -  20+ 
-- Android Apps Developed - 5+
-- Flutter App -> 2
-- ReactNative -> 2
+- iOS App Developed -  25+ 
+- Android Apps Developed - 6+
+- Flutter App -> 1
+- ReactNative -> 4+
+- Mobile Architect - 10+
 - Proficient in Shell and Python scripting
-- Native Mobile App Development (iOS : 20+ Apps, Android:  5+ Apps)
-- Hybrid App Development (React-Native: 2 Apps, Flutter: 2 Apps)
+
 
 ## 🎵 Hobbies & Interests
 
