@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm ArepuPavankumar!
 
-I'm a passionate Software Mobile Architect based in Sweden and Hyderabad, focusing on designing and architecting mobile applications for both iOS and Android platforms.
+I'm a passionate Software Mobile Developer & Architect based in Sweden and Hyderabad(Overall 14+ Years), focusing on designing and architecting mobile applications for both iOS and Android platforms.
 140+ Repositories that cover the spectrum of tech stack(C, C++, Swift, Objective, Java, Kotlin, JavaScript, Dart, Shell/Python Scripting) and technologies like (iOS, Android, and ReactNative). 
 My expertise includes Mobile Development, architecture, system design, low-level and high-level architecture, cloud technologies (AWS, Azure, Google Cloud), and artificial intelligence.
 
@@ -22,17 +22,21 @@ My expertise includes Mobile Development, architecture, system design, low-level
 
 Feel free to share your ideas! I'm here to bring your ideas to life and collaborate on exciting projects.
 
-## 🌱 Certifications & Skills
+## 🌱 Certifications & Skills 
 
-- AWS Solution Architect Certified(SAA-003)
-- Azure Fundamentals(AZ-900)
-- PSM-1 Certified
-- iOS App Developed -  25+ 
-- Android Apps Developed - 6+
-- Flutter App -> 1
-- ReactNative -> 4+
 - Mobile Architect - 10+
-- Proficient in Shell and Python scripting
+  - iOS App Developed -  25+ 
+  - Android Apps Developed - 6+
+  - ReactNative -> 4+
+  - Flutter App -> 1
+- Management
+  - PSM-1 Certified
+  - Team Leader for 8 Projects
+- Cloud
+  - Azure Fundamentals(AZ-900)
+  - AWS Solution Architect Certified(SAA-003)
+- Scripting
+  - Proficient in Shell and Python scripting
 
 
 ## 🎵 Hobbies & Interests
@@ -40,7 +44,7 @@ Feel free to share your ideas! I'm here to bring your ideas to life and collabor
 - Exploring new technologies
 - Fond of physical fitness and any physical games(outdoor games)
 - Listening to music
-- Finding/Explore more when I am alone.
+- Finding/Exploring myself more when I am alone.
 - Practicing meditation for focus and grounding
 
 Let's connect and collaborate on exciting projects! Reach out to me on LinkedIn or WhatsApp to discuss ideas and opportunities.
