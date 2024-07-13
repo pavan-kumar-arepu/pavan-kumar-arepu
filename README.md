@@ -1,9 +1,9 @@
 
-# 👋 Hello Namaste 🙏, I'm ArepuPavankumar! 🕉️ 
+# 👋 Hello Namaste 🙏, I'm ArepuPavankumar!  
 
-## About Me
+## 🕉️ About Me
 
-I'm a passionate Software Mobile Developer & Architect based in Sweden and Hyderabad, with over 14 years of experience. My focus is on designing and architecting mobile applications for both iOS and Android platforms using Native and Hybrid mobile technologies.
+I'm a passionate Software Mobile Developer & Architect based in Sweden and Hyderabad, with over 14 years of experience. I focus on designing and architecting mobile applications for iOS and Android platforms using Native and Hybrid mobile technologies.
 
 ## 🚀 What I Do
 
