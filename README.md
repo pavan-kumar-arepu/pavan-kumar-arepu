@@ -1,15 +1,37 @@
-# 👋 Hi there, I'm ArepuPavankumar!
+# 👋 Hello I'm ArepuPavankumar!
 
-I'm a passionate Software Mobile Developer & Architect based in Sweden and Hyderabad(Overall 14+ Years), focusing on designing and architecting mobile applications for both iOS and Android platforms.
-140+ Repositories that cover the spectrum of tech stack(C, C++, Swift, Objective, Java, Kotlin, JavaScript, Dart, Shell/Python Scripting) and technologies like (iOS, Android, and ReactNative). 
-My expertise includes Mobile Development, architecture, system design, low-level and high-level architecture, cloud technologies (AWS, Azure, Google Cloud), and artificial intelligence.
+About Me
+I'm a passionate Software Mobile Developer & Architect based in Sweden and Hyderabad, with over 14 years of experience. My focus is on designing and architecting mobile applications for both iOS and Android platforms using Native and Hybrid mobile technologies.
+
+# 👋 Hello, I'm ArepuPavankumar!
+
+## About Me
+
+I'm a passionate Software Mobile Developer & Architect based in Sweden and Hyderabad, with over 14 years of experience. My focus is on designing and architecting mobile applications for both iOS and Android platforms using Native and Hybrid mobile technologies.
 
 ## 🚀 What I Do
 
-- **Mobile App Development&Architecting/Solutioning:** I love turning innovative ideas into reality through mobile app development.
-- **System Design:** Specializing in creating seamless and intuitive user experiences.
-- **Cloud Technologies:** AWS(Certified), Azure(Certified), Google Cloud(Exploring)
-- **Artificial Intelligence:** Exploring the realms of AI for enhancing mobile app capabilities.
+- **Mobile App Development & Architecting/Solutioning:**
+  - Specializing in SwiftUI, Jetpack, React Native, and Flutter.
+  
+- **Firebase Services:**
+  - Expert in leveraging Firebase services to their full extent, including Remote Config, Crashlytics, Push Notifications, Firebase Cloud Functions, Firestore, and Firebase Realtime Database.
+  
+- **System Design:**
+  - Creating seamless and intuitive user experiences.
+  
+- **Database:**
+  - Proficient in Sqlite, Realm, Core Data.
+  
+- **Streams:**
+  - Experienced with RxSwift and Combine.
+  
+- **Cloud Technologies:**
+  - AWS (Certified), Azure (Certified), Firebase, Google Cloud (Exploring).
+  
+- **Artificial Intelligence:**
+  - Exploring AI for enhancing mobile app capabilities.
+
 
 ## 💡 Share Your Ideas
 
@@ -44,6 +66,7 @@ Feel free to share your ideas! I'm here to bring your ideas to life and collabor
 Let's connect and collaborate on exciting projects! Reach out to me on LinkedIn or WhatsApp to discuss ideas and opportunities.
 
 - [LinkedIn](https://www.linkedin.com/in/pavan-kumar-arepu-software-architect-engineer/)
+- [Website] (https://pavanapps.netlify.app/)
 - Indian WhatsApp Number: +91 8121 040308
 - Sweden Number: +46 76 431 6599
 - Email: iOSDeveloper.ipa@gmail.com
