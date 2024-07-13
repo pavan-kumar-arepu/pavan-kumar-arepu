@@ -1,9 +1,5 @@
-# 👋 Hello I'm ArepuPavankumar!
 
-About Me
-I'm a passionate Software Mobile Developer & Architect based in Sweden and Hyderabad, with over 14 years of experience. My focus is on designing and architecting mobile applications for both iOS and Android platforms using Native and Hybrid mobile technologies.
-
-# 👋 Hello, I'm ArepuPavankumar!
+# 👋 Hello Namaste 🙏, I'm ArepuPavankumar! 🕉️ 
 
 ## About Me
 
