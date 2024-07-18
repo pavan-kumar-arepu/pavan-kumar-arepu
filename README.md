@@ -3,7 +3,7 @@
 
 ## 🕉️ About Me
 
-I'm a passionate & hard-core Mobile Developer & Architect based in Sweden and Hyderabad. I design, develop, and architect over 100+ mobile applications for iOS and Android platforms using Native and Hybrid mobile technologies.
+I'm a passionate & hard-core Mobile Developer & Architect based in Sweden and Hyderabad. I designed, developed, and architected over 100+ mobile applications for iOS and Android platforms using Native and Hybrid mobile technologies.
 
 ## ⭐ Special Place
 - Among all mobile platforms, iOS holds a special place in my heart as it has allowed me to prove myself as a hardcore mobile developer since 2011.
