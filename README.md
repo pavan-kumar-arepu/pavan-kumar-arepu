@@ -1,73 +1,206 @@
+# 👋 Hello, Namaste 🙏 I'm Arepu Pavan Kumar
 
-# 👋 Hello Namaste 🙏, I'm ArepuPavankumar!  
+## Senior Technical Manager | Mobile Architect | AI & Edge Computing Enthusiast
 
-## 🕉️ About Me
+Building intelligent mobile experiences, scalable platforms, and AI-powered assistive technologies.
 
-I'm a passionate & hard-core Mobile Developer & Architect based in Sweden and Hyderabad. I designed, developed, and architected over 100+ mobile applications for iOS and Android platforms using Native and Hybrid mobile technologies.
+---
 
-## ⭐ Special Place
-- Among all mobile platforms, iOS holds a special place in my heart as it has allowed me to prove myself as a hardcore mobile developer since 2011.
+# 🚀 About Me
 
-## 🚀 What I Do
+I am a Mobile Architect with **16+ years of experience** designing and building enterprise-scale applications across iOS, Android, Cross-platform, Cloud, and AI.
 
-- **Mobile App Development & Architecting/Solutioning:**
-  - Specializing in SwiftUI, Jetpack, React Native, and Flutter.
-  
-- **Firebase Services:**
-  - Expert in leveraging Firebase services to their full extent, including Remote Config, Crashlytics, Push Notifications, Firebase Cloud Functions, Firestore, and Firebase Realtime Database.
-  
-- **System Design:**
-  - Creating seamless and intuitive user experiences.
-  
-- **Database:**
-  - Proficient in Sqlite, Realm, and Core Data.
-  
-- **Streams:**
-  - Experienced with RxSwift and Combine.
-  
-- **Cloud Technologies:**
-  - AWS (Certified), Azure (Certified), Firebase, Google Cloud (Exploring).
-  
-- **Artificial Intelligence:**
-  - Exploring AI for enhancing mobile app capabilities.
+Throughout my career, I have contributed to **30+ enterprise applications across 8+ business domains**, helping organizations build scalable, secure, and user-centric digital products.
 
+Currently I work on building reusable native Design Systems, Mobile Architecture, AI-enabled applications, and Edge AI solutions.
 
-## 💡 Share Your Ideas
+My long-term vision is to bridge **Mobile + AI + Edge Computing + Accessibility** to solve meaningful real-world problems.
 
-Feel free to share your ideas! I'm here to bring your ideas to life and collaborate on exciting projects.
+---
 
-## 🌱 Certifications & Skills 
+# 💼 Current Focus
 
-- Mobile Architect - 10+
-  - iOS App Developed -  25+ 
-  - Android Apps Developed - 6+
-  - ReactNative -> 4+
-  - Flutter App -> 1
-- Management
-  - PSM-1 Certified
-  - Team Leader for 8 Projects
-- Cloud
-  - Azure Fundamentals(AZ-900)
-  - AWS Solution Architect Certified(SAA-003)
-- Scripting
-  - Proficient in Shell and Python scripting
+- 📱 Native Mobile Architecture
+- 🎨 Design Systems & SDK Development
+- 🤖 AI & Edge AI
+- 👁️ Computer Vision
+- 🧠 Generative AI & LLMs
+- ☁️ Cloud Architecture
+- ♿ Accessibility Technologies
+- 📦 Developer Experience (DX)
 
+---
 
-## 🎵 Hobbies & Interests
+# 🛠️ Technical Expertise
 
-- Exploring new technologies
-- Fond of physical fitness and any physical games(outdoor games)
-- Listening to music
-- Finding/Exploring myself more when I am alone.
-- Practicing meditation for focus and grounding
+### Mobile
 
-## 📱 Let's Connect
-Let's connect and collaborate on exciting projects! Reach out to me on LinkedIn or WhatsApp to discuss ideas and opportunities.
+- Swift
+- SwiftUI
+- UIKit
+- Kotlin
+- Jetpack Compose
+- Android
+- Flutter
+- React Native
 
-- [LinkedIn](https://www.linkedin.com/in/pavan-kumar-arepu-software-architect-engineer/)
-- [Website] (https://pavanapps.netlify.app/)
-- Indian WhatsApp Number: +91 8121 040308
-- Sweden Number: +46 76 431 6599
-- Email: iOSDeveloper.ipa@gmail.com
+### Architecture
 
+- Mobile Architecture
+- System Design
+- SDK Design
+- Modular Architecture
+- Design Systems
+- Clean Architecture
+- MVVM
+- MVI
 
+### AI & Computer Vision
+
+- Large Language Models (LLMs)
+- Edge AI
+- Computer Vision
+- MediaPipe
+- ML Kit
+- AI-assisted Mobile Experiences
+
+### Cloud
+
+- AWS Solution Architect
+- Microsoft Azure
+- Firebase
+- Google Cloud (Learning)
+
+### Backend & Databases
+
+- Firebase
+- Firestore
+- Realtime Database
+- Cloud Functions
+- SQLite
+- Realm
+- Core Data
+
+### Developer Tools
+
+- Git
+- GitHub Actions
+- Bitrise
+- Xcode Cloud
+- Fastlane
+- CI/CD
+
+### Languages
+
+- Swift
+- Kotlin
+- Python
+- Shell
+- Java
+- JavaScript
+- TypeScript
+
+---
+
+# 🌱 Current Learning
+
+- Generative AI
+- Large Language Models
+- Edge AI
+- Qualcomm AI Stack
+- AI Hardware Acceleration
+- Computer Vision
+- AI Agents
+- Multimodal AI
+
+Currently pursuing **M.Tech in Artificial Intelligence & Machine Learning** from **BITS Pilani (WILP).**
+
+---
+
+# 🚀 Featured Project
+
+## Vani — AI Powered Assistive Ecosystem
+
+An Edge AI platform designed to improve the lives of people with ALS, MND, and other motor neuron disorders.
+
+Features include:
+
+- Eye Tracking
+- Blink Detection
+- Gesture Recognition
+- Emergency Alerts
+- Caregiver Connectivity
+- AI-based Capability Tracking
+- Computer Vision
+- Raspberry Pi Edge Computing
+
+> Technology should empower every human being.
+
+---
+
+# 📊 Highlights
+
+- 💼 16+ Years Experience
+- 📱 30+ Enterprise Applications
+- 🌍 8+ Business Domains
+- 📦 150+ GitHub Repositories
+- 👥 Engineering Manager & People Leader
+- ☁️ AWS Certified Solution Architect
+- ☁️ Microsoft Azure Certified
+- 🏆 Professional Scrum Master (PSM I)
+- 🎓 M.Tech (AI & ML) — BITS Pilani (Pursuing)
+
+---
+
+# ❤️ Areas of Interest
+
+- Artificial Intelligence
+- Edge Computing
+- Accessibility
+- Mobile Architecture
+- Human-Centered Design
+- Robotics
+- Cloud Computing
+- System Design
+- Open Source
+
+---
+
+# 🌍 Vision
+
+I believe the next generation of innovation lies at the intersection of
+
+> Mobile Computing × AI × Edge Intelligence × Accessibility.
+
+My mission is to build technologies that make everyday life better, especially for people who need them the most.
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on
+
+- Mobile Architecture
+- AI Applications
+- Edge AI
+- Accessibility
+- Open Source
+- Research
+- Innovative Startups
+
+---
+
+# 📫 Connect with Me
+
+🌐 Website  
+https://pavanapps.netlify.app
+
+💼 LinkedIn  
+https://www.linkedin.com/in/pavan-kumar-arepu-software-architect-engineer/
+
+📧 Email  
+iOSDeveloper.ipa@gmail.com
+
+---
+
+> *"Technology has its greatest impact when it improves someone's life."*
